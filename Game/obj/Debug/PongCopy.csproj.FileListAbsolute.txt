@@ -1,0 +1,11 @@
+C:\Users\locktoug138\Source\Repos\SquareChaser\Pong\bin\Debug\Pong.exe.config
+C:\Users\locktoug138\Source\Repos\SquareChaser\Pong\bin\Debug\Pong.exe
+C:\Users\locktoug138\Source\Repos\SquareChaser\Pong\bin\Debug\Pong.pdb
+C:\Users\locktoug138\Source\Repos\SquareChaser\Pong\obj\Debug\PongCopy.csproj.AssemblyReference.cache
+C:\Users\locktoug138\Source\Repos\SquareChaser\Pong\obj\Debug\PongCopy.csproj.SuggestedBindingRedirects.cache
+C:\Users\locktoug138\Source\Repos\SquareChaser\Pong\obj\Debug\Pong.Form1.resources
+C:\Users\locktoug138\Source\Repos\SquareChaser\Pong\obj\Debug\Pong.Properties.Resources.resources
+C:\Users\locktoug138\Source\Repos\SquareChaser\Pong\obj\Debug\PongCopy.csproj.GenerateResource.cache
+C:\Users\locktoug138\Source\Repos\SquareChaser\Pong\obj\Debug\PongCopy.csproj.CoreCompileInputs.cache
+C:\Users\locktoug138\Source\Repos\SquareChaser\Pong\obj\Debug\Pong.exe
+C:\Users\locktoug138\Source\Repos\SquareChaser\Pong\obj\Debug\Pong.pdb
